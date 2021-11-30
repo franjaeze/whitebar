@@ -1,0 +1,23 @@
+img{
+    width: 100px;
+    height: 150px;
+
+}
+
+body{
+    background-image: url(white.jpg);
+    
+    
+}
+
+h1{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
+
+.transbox {
+    background-color: #272626;
+    opacity: 0.8;
+  }
